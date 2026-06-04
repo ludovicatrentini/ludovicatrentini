@@ -1,4 +1,4 @@
-# Hi, I'm Ludovica 👋
+# Hi, I'm Ludovica 🌍
 
 I'm an entry data analyst based in Berlin with a background that most analysts don't have: three years working inside the tourism and events industry before I ever opened a SQL editor.
 
