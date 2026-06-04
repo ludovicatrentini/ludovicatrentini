@@ -20,7 +20,7 @@ Data cleaning and transformation · exploratory analysis · dashboard design · 
 
 | Project | Tools | Domain |
 |---|---|---|
-| [LAX Flight Delay Analysis](https://github.com/ludovicatrentini/lax-flight-delay-analysis) 
+| [LAX Flight Delay Analysis](https://github.com/ludovicatrentini/lax-flight-delay-analysis) | Power BI · DAX · Power Query | Aviation / Travel |
 
 ---
 
